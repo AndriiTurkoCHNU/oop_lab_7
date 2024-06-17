@@ -7,4 +7,5 @@ add_executable(oop_lab_7
         main.cpp
         Node.h
         LinkedList.h
-        DoubleLinkedList.h)
+        DoubleLinkedList.h
+        lab_8.h)
